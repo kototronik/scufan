@@ -1,2 +1,1 @@
-# scufan
-# created for personal use
+# scufan has been created for personal use
